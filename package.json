@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/josephbarsness/Cypress_Test/issues"
   },
-  "homepage": "https://github.com/josephbarsness/Cypress_Test#readme"
+  "homepage": "https://github.com/josephbarsness/Cypress_Test#readme",
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  }
 }
