@@ -1,0 +1,24 @@
+{
+    "desktop": {
+        "paragraphOne": "#root > div.wrapper_oQj77r_25Nel8mpJsGwyM > div.content_3uUDiiqvDJYnsBJrNcyoNk > form > div.gridWrapper_1i0Xr7VSusnrKNhGdd9U-Y > p:nth-child(1)",
+        "paragraphTwo": "#root > div.wrapper_oQj77r_25Nel8mpJsGwyM > div.content_3uUDiiqvDJYnsBJrNcyoNk > form > div.gridWrapper_1i0Xr7VSusnrKNhGdd9U-Y > p:nth-child(2)",
+        "emailTitle": "#root > div.wrapper_oQj77r_25Nel8mpJsGwyM > div.content_3uUDiiqvDJYnsBJrNcyoNk > form > div.gridWrapper_1i0Xr7VSusnrKNhGdd9U-Y > fieldset > div:nth-child(1) > div.wrapper_31XjwhDdlupzeAjNCc1n7n.label_dDeedBUGmbtjJIGAHXnhb.InputBase > div.labelWrapper_30ufXNmiCjP2j92okgna9h > span",
+        "emailInput": "#root > div.wrapper_oQj77r_25Nel8mpJsGwyM > div.content_3uUDiiqvDJYnsBJrNcyoNk > form > div.gridWrapper_1i0Xr7VSusnrKNhGdd9U-Y > fieldset > div:nth-child(1) > div.inputWrapper_1-grGzUFUTrbgzX_VnWdA7 > input",
+        "confirmEmailTitle": "#root > div.wrapper_oQj77r_25Nel8mpJsGwyM > div.content_3uUDiiqvDJYnsBJrNcyoNk > form > div.gridWrapper_1i0Xr7VSusnrKNhGdd9U-Y > fieldset > div:nth-child(2) > div.wrapper_31XjwhDdlupzeAjNCc1n7n.label_dDeedBUGmbtjJIGAHXnhb.InputBase > div.labelWrapper_30ufXNmiCjP2j92okgna9h > span",
+        "confirmEmailInput": "#root > div.wrapper_oQj77r_25Nel8mpJsGwyM > div.content_3uUDiiqvDJYnsBJrNcyoNk > form > div.gridWrapper_1i0Xr7VSusnrKNhGdd9U-Y > fieldset > div:nth-child(2) > div.inputWrapper_1-grGzUFUTrbgzX_VnWdA7 > input",
+        "needAssistance": "#root > div.wrapper_oQj77r_25Nel8mpJsGwyM > div.content_3uUDiiqvDJYnsBJrNcyoNk > form > div.gridWrapper_1i0Xr7VSusnrKNhGdd9U-Y > p.helpText_2o3IWFB0vnVpHLjuxrdHLQ",
+        "cancelButton": "#root > div.wrapper_oQj77r_25Nel8mpJsGwyM > div.content_3uUDiiqvDJYnsBJrNcyoNk > form > div.Footer__content.content_1dObF38G51k1MUd80sPp_o.shadowless_3RrnlxJO8-M-JEYoRNJYa2 > div.Button.wrapper_L_BYYSUwNPwW-x6ULk1hS.color-primary_23Sn2IIi0n0QJoxCVe1TIf.size-normal_2h51clwqaQbCblKmsoSIgm.variant-text_2bM66RdltIBblYZMmXmphA > button > span.wrapper_3mgDyBEfnO9M6pp0xT_Tfy.contained_3uljOUczYqqcsp2H21Ht-X.color-primary_3oHuF3t2B-SHLUuY-uPSI0",
+        "continueButton": "#root > div.wrapper_oQj77r_25Nel8mpJsGwyM > div.content_3uUDiiqvDJYnsBJrNcyoNk > form > div.Footer__content.content_1dObF38G51k1MUd80sPp_o.shadowless_3RrnlxJO8-M-JEYoRNJYa2",
+        "newAccountPage": [
+            "paragraphOne",
+            "paragraphTwo",
+            "emailTitle",
+            "emailInput",
+            "confirmEmailTitle",
+            "confirmEmailInput",
+            "needAssistance",
+            "cancelButton",
+            "continueButton"
+        ]
+    }
+}
