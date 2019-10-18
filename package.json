@@ -1,5 +1,5 @@
 {
-  "name": "cypress_test",
+  "name": "cypressPresentation",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/josephbarsness/Cypress_Test.git"
+    "url": "git+https://github.com/josephbarsness/cypressPresentation.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/josephbarsness/Cypress_Test/issues"
+    "url": "https://github.com/josephbarsness/cypressPresentation/issues"
   },
-  "homepage": "https://github.com/josephbarsness/Cypress_Test#readme",
+  "homepage": "https://github.com/josephbarsness/cypressPresentation#readme",
   "devDependencies": {
     "cypress": "^3.4.1"
   }
